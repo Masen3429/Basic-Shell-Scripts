@@ -1,6 +1,6 @@
 # Basic-Shell-Scripts
 Masen'sBasicShellScripts - version 1.0 - A.K.A - MBSS
-
+--------------------------------------------------------------------------------
 This Package was created by: Masen Luecke.
 The contents were created by: Masen Luecke.
 --------------------------------------------------------------------------------
@@ -24,7 +24,7 @@ chmod +x yourfilehere.sh
 
 You will have to do this for all the files. Another way to do it is through the GUI. To do it this way simply right click on the file, click properties, click on 
 the permissions tab and click allow executing file as program and that's it you're done you can now use the scripts to your liking and edit the source as you
-pleae! 
+please! 
 --------------------------------------------------------------------------------
 If you need to contact me my contact email is: lueckemasen@gmail.com
 --------------------------------------------------------------------------------
