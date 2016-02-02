@@ -5,7 +5,7 @@ ping -c 5 www.google.com
 while true
 do 
 clear
-echo       'Masen's --- Basic --- System --- Updater"
+echo       "Masen's --- Basic --- System --- Updater"
 echo "-----------------------------------------------------"
 echo
 echo "Are you sure you want to refresh system repository's?"
